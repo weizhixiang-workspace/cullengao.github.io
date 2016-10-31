@@ -1,13 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en"
-title                    : "Hang | Homepage"
+title                    : "HANG.G"
 title_separator          : "-"
 name                     : "Hang Gao's Homepage"
 description              : "the description"
@@ -78,24 +71,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hang Gao"
+  name             : # "Hang GAO"
   avatar           : "me.jpg"
-  bio              : "SJTU / SENIOR / DL / UBICOMP"
-  location         : "SJTU, SH, CHINA"
+  bio              : # "SJTU / SENIOR / DL / UBICOMP"
+  location         : "SH, CHINA"
   email            : "cullengao@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "100011586457213"
   foursquare       :
   github           : "cullengao"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "cullen-hanggao"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -103,7 +96,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : "2809775492"
   xing             :
   youtube          :
 
@@ -228,3 +221,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

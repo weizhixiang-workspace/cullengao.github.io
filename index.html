@@ -1,14 +1,46 @@
 ---
-layout: archive
+layout: single
+header:
+    image: outlining_header.jpg
+    <!--overlay_filter: 0.5-->
 author_profile: true
 ---
+<style>
+    p {
+        font-family: verdana;
+        font-size: 10%;
+    }
+    a {
+        font-style: italic;
+    }
+</style>
 
-{% include base_path %}
+<center><br>
+<p><font size="6">
+    Hello,
+    I'm 
+    <a href="{{ site.url }}">Hang</a> GAO.</font>
+</p><br>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<font size="4">
+<p>
+    I'm currently a CS senior undergrad at <a href="http://en.sjtu.edu.cn/">SJTU</a> (Shanghai Jiao Tong University) 
+    equipped with a strong technical background.
+</p>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<p>
+    I do the development of pragmatic usage: kernels, servers, webpages, scientific computations, and etc.
+    Tremendously distributed datasets have also captured me, given its promising future regarding to the Informatic Industry.
+</p>
 
-{% include paginator.html %}
+<p>
+    Besides, My academical interest is now most located at the very region between the Ubiquitous Computing and Artificial Intelligence, including 
+    the hallucinating applications that shape people's life in pace. I'm lucky enough to get involved with lines of projects in this field in a 
+    relatively young age, which labored me <a href="{{ site.data.navigation.Publications.url }}">a few publications</a> as well.
+</p>
+
+<p>
+    If you want to get in touch with me, <a href="mailto:cullengao@gmail.com">email</a> is of the best.
+</p>
+</font>
+</center>
