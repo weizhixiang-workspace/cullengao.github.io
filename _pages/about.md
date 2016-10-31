@@ -7,6 +7,6 @@ author_profile: false
 permalink: /about/
 ---
 
-## 1
-## 2
-## 3
+# About
+
+I'm Hang, an expected CS senior undergrad at SJTU. I do a lot of different things.
