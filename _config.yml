@@ -9,9 +9,10 @@
 locale                   : "en"
 title                    : "Hang | Homepage"
 title_separator          : "-"
-name                     : "Hang Gao"
-description              : "An amazing website."
-url                      : "https://cullengao.github.io"
+name                     : "Hang Gao's Homepage"
+description              : "the description"
+#url                      : "https://cullengao.github.io"
+url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CullenGao/cullengao.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,8 +80,8 @@ analytics:
 author:
   name             : "Hang Gao"
   avatar           : "me.jpg"
-  bio              : "I am an amazing person."
-  location         : "Shanghai JIAO TONG University, SH, CHINA"
+  bio              : "SJTU / SENIOR / DL / UBICOMP"
+  location         : "SJTU, SH, CHINA"
   email            : "cullengao@gmail.com"
   uri              :
   bitbucket        :
@@ -89,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "cullengao"
   google_plus      :
   keybase          :
   instagram        :
