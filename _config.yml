@@ -11,7 +11,7 @@ title                    : "Hang | Homepage"
 title_separator          : "-"
 name                     : "Hang Gao"
 description              : "An amazing website."
-url                      : "https://cullengao.github.io"
+url                      : "https://127.0.0.1:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CullenGao/cullengao.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Hang Gao"
-  avatar           : "bio-photo.jpg"
+  avatar           : "me.jpg"
   bio              : "I am an amazing person."
-  location         : "SJTU, SH, CHINA"
+  location         : "Shanghai JIAO TONG University, SH, CHINA"
   email            : "cullengao@gmail.com"
   uri              :
   bitbucket        :
