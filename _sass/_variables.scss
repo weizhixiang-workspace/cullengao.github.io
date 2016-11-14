@@ -13,6 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
+$millygoudy                 : 'OFL Sorts Mill Goudy TT', cursive, serif;
+$cormorant                  : 'Cormorant Garamond', serif;
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
@@ -28,19 +30,21 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $millygoudy;
+$header-font-family         : $millygoudy;
+$caption-font-family        : $millygoudy;
 
-/* type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
-$type-size-4                : 1.25em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+/* type scale
+   http://stackoverflow.com/questions/819079/how-to-convert-font-size-10-to-px
+   https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/ */
+$type-size-1 : 3.441em;
+$type-size-2 : 2.953em;
+$type-size-3 : 2.563em;
+$type-size-4 : 1.25em;   // ~20px
+$type-size-5 : 1em;      // ~16px
+$type-size-6 : 0.75em;   // ~12px
+$type-size-7 : 0.6875em; // ~11px
+$type-size-8 : 0.625em;  // ~10px
 
 
 /*

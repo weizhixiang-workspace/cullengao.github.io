@@ -112,6 +112,7 @@ blockquote {
 /* links */
 
 a {
+  font-style: none;
   &:focus {
     @extend %tab-focus;
   }
@@ -134,6 +135,11 @@ pre {
 
 p > code,
 a > code,
+
+em {
+  font-family: $times;
+}
+
 li > code,
 figcaption > code,
 td > code {
