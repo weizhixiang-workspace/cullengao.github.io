@@ -1,7 +1,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "HANG.G"
-title_separator          : "|"
+title_separator          : "-"
 name                     : "Hang GAO"
 #description              : "the description"
 url                      : "http://hangg.me"
