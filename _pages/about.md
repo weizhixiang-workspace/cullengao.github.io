@@ -21,7 +21,7 @@ If being good at taking exams counts, I should be one of those so-called "good l
 
 <center><img src="../images/isef.jpg" height="42"></center><br>
 
-I start to learn programming from the junior high. At that time, I and my another teammates participated [*ISEF'12*](https://student.societyforscience.org/intel-isef) (the world’s largest international pre-college science competition) as a part of Chinese Delegation. We made our first project to estimate the submergence factors of rice gene and won a silver medal which was one of the best award of China.
+I start to learn programming from the junior high. At that time, I and my other two teammates participated [*ISEF'12*](https://student.societyforscience.org/intel-isef) (the world’s largest international pre-college science competition) as a part of Chinese Delegation. We made our first project to estimate the submergence factors of rice gene and won a silver medal which was one of the best award of China.
 
 Through all these years, I have proceeded with a stable pace, from the curious high school kid to an independent researcher. I published three EI papers  and submitted one onto [*INFOCOM'17*](http://infocom2017.ieee-infocom.org/). Please check [here]({{ site.url }}/publications) for more details.
 

@@ -10,7 +10,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/
+    url: /docs/cv.pdf
 
   - title: "Gallery"
     url: /gallery/
