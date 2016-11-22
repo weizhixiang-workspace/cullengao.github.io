@@ -48,6 +48,6 @@ I intend to record tiny fragments of life, by photos and my own involvements.
 
 <center><img src="../images/nepalkids.jpg" width="520"></center><br>
 
-In 2013, I spent two months as a volunteer in Nepal, teaching local kids about Chinese and English. It was actually a life-time experience escaping from the metropolis and blend in with a culture way different from yours.
+In 2013, I spent two months as a volunteer in Nepal, teaching local kids about Chinese and English. It was actually a life-time experience escaping from the metropolis and blend in with a culture way different from mine.
 
 More pieces of my photography (if it counts) could be found in [Gallery]({{ site.url }}/gallery). :yum:
