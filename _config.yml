@@ -6,7 +6,7 @@ name                     : "Hang GAO"
 #description              : "the description"
 url                      : "http://hangg.me"
 #url                      : "http://localhost:4000"
-#baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cullengao/cullengao.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
