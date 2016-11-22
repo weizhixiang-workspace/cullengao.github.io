@@ -17,7 +17,7 @@ Currently, I live in Shanghai, China. I'm expected in July, 2017 with a B.E. Deg
 Now, please allow me to introduce myself as a *learner*, a *developer* and an *observer.*
 
 ## Learner
-If being good at coursework counts, I should be one of those so-called "skilled learner". Till the senior year, my major GPA is `3.81/4.0`. I have never failed to rank top 3 in [my institution](http://infosec.sjtu.edu.cn/English.asp) out of 83 peers during the whole college phase. Yet I guess there should be more than that.
+If being good at coursework counts, I should be one of those so-called "skilled learner". Till the senior year, my major GPA is `3.85/4.0`. I have never failed to rank top 3 in [my institution](http://infosec.sjtu.edu.cn/English.asp) out of 83 peers during the whole college phase. Yet I guess there should be more than that.
 
 <center><img src="../images/isef.jpg" height="42"></center><br>
 
