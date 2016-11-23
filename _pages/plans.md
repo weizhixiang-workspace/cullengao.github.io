@@ -19,7 +19,7 @@ It’s mostly the place for me to track the booklist / topics / predilections th
 
 + *C++ Primer (5th Edition)*: not gonna lie, but C++ is definitely the language worth to be relearnt. Especially C++ 11 features and advanced knacks, I found them compelling when recently skimming through [caffe](https://github.com/BVLC/caffe)'s source code.
 + *Learn Python the hard way*: advanced Python. Integrated with [Hitchhiker's blog](http://docs.python-guide.org/en/latest/)
-+ *C Interfaces and Implementation*: for concise algorithm implementation, and, of course, interviews. Integrated with [Introduction to Algorithms](https://mitpress.mit.edu/sites/default/files/titles/content/9780262033848_sch_0001.pdf)
++ *C Interfaces and Implementation*: for concise algorithm implementation, and, of course, interviews. Integrated with [Introduction to Algorithms](https://mitpress.mit.edu/sites/default/files/titles/content/9780262033848_sch_0001.pdf).
 
 ## Topics
 
