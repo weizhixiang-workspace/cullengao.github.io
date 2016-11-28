@@ -9,21 +9,16 @@ permalink: /plans/
 <br>
 This page is a collection of learning plans I habitually kept for half a year.
 
-It’s mostly the place for me to track the booklist / topics / predilections that I want to remember to check every now and then. I figured other people might find it handy too.
+It’s mostly the place for me to track the booklist / topics / predilections that I want to remember or check every now and then. I figured other people might find it handy too.
 
 ## Booklist
-
 > Be a developer, not a code monkey.
 
-### Fall, 2016
-
-+ *C++ Primer (5th Edition)*: not gonna lie, but C++ is definitely the language worth to be relearnt. Especially C++ 11 features and advanced knacks, I found them compelling when recently skimming through [caffe](https://github.com/BVLC/caffe)'s source code.
-+ *Learn Python the hard way*: advanced Python. Integrated with [Hitchhiker's blog](http://docs.python-guide.org/en/latest/)
++ *C++ Primer*: not gonna lie, but *C++* is definitely the language worth to be relearnt. Especially *C++ 11* features and advanced knacks, I found them compelling when recently skimming through [caffe](https://github.com/BVLC/caffe)'s source code.
++ *Python Cookbook*: advanced Python. I always wonder how is it to realize relative import and OOP-like a non-script language, maybe this short span before the grad school is a perfect timing. Integrated with [Hitchhiker's blog](http://docs.python-guide.org/en/latest/).
 + *C Interfaces and Implementation*: for concise algorithm implementation, and, of course, interviews. Integrated with [Introduction to Algorithms](https://mitpress.mit.edu/sites/default/files/titles/content/9780262033848_sch_0001.pdf).
 
 ## Topics
-
-### Fall, 2016
 + *DL*: there are basically two papers I wanna implement myself.
     - LSTM with CNN: **Show and Tell: A Neural Image Caption Generator.** *CVPR'15*. [[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
     - DCGAN - Generative model for new pictures: **Unsupervised Representation Learning with Deep Convoluted Generative Adversarial Networks.** *ICPR'16*. [[pdf]](https://arxiv.org/pdf/1511.06434v2.pdf)
@@ -33,6 +28,5 @@ It’s mostly the place for me to track the booklist / topics / predilections th
     - Distributed database on smartphone's contexts: with Google Shanghai.
 
 ## Predilectinos
-
 + *Photography*: I finally set up my mind in shooting pro pictures, and just bought a *SONY DSC-RX100 M5*. Please keep tuning.
 + *Fingerstyle*: a little taste of heaven. Working on the piece of [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=aIUi86_Hscw).

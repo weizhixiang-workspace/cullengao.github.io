@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## 2016
 
-**Hang Gao**, Xiangyu Xu, et al. *“ER: Early Recognition of Inattentive Driving Events Leveraging Audio Devices on Smartphones”*. In Proceedings of the 2017 IEEE International Conference on Computer Communications (INFOCOM'17). Atlanta, GA, USA. Accepted. [pdf](../docs/INFOCOM_ER.pdf)
+**Hang Gao**, Xiangyu Xu, et al. *“ER: Early Recognition of Inattentive Driving Events Leveraging Audio Devices on Smartphones”*. In Proceedings of the 2017 IEEE International Conference on Computer Communications (INFOCOM'17). Atlanta, GA, USA. Accepted. [[pdf]](../docs/INFOCOM_ER.pdf)
 
 **Hang Gao**, Feng Qiu, Yang Nan. *“Distribution Modeling for Smart City’s Taxi Resources Allocation”*. In the Journal of Chinese Engineering Mathematics. 2016 annual. 57 - 64. ***Best Undergraduate Essay Award***
 
