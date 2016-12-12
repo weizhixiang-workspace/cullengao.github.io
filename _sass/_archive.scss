@@ -114,11 +114,19 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-family: $cormorant;
+    font-size: $type-size-4;
+    font-weight: 700;
   }
 
   .archive__item-excerpt {
     display: none;
+  }
+
+  .archive__date {
+      font-family: Courier;
+      font-weight: 200;
+      font-size: $type-size-5;
   }
 
   @include breakpoint($small) {
@@ -131,10 +139,10 @@
   @include breakpoint($medium) {
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
-    @include gallery(2.5 of 10);
+    @include gallery(5 of 10);
 
     .archive__item-teaser {
-      max-height: 120px;
+      max-height: 240px;
     }
 
     .archive__item-excerpt {
