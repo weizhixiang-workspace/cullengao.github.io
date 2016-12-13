@@ -1,9 +1,9 @@
 ---
-title: "LSNM"
-date: 2016-11-07 00:00:00
-excerpt: "\"Linux Network Security Module\": an extension for network monitoring via LSM (Linux Security Module)."
+title: "BeeksBeacon"
+date: 2016-09-10 00:00:00
+excerpt: "A context­aware admin dashboard of nearby beacons."
 header:
-  teaser: lsnm_header.png
+  teaser: bb_header.png
 author_profile: true
 gallery:
   - url: lsnm_ui.png
@@ -79,7 +79,6 @@ By hooking up embedded functions in root mode of Linux kernel, the project has s
 + Continuous Logging via Asynchronous Threading
 + General Defense Policy against DDoS
 
----
-
+<br>
 Below shows the basic UI of the command line tool:
-{% include gallery %}
+{% include gallery caption="Demo for LSNM" %}
