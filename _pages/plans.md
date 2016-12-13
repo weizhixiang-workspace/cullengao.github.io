@@ -20,11 +20,11 @@ It’s mostly the place for me to track the booklist / topics / predilections th
 
 ## Topics
 + *DL*: there are basically three papers I wanna implement myself.
-    - LSTM with CNN: **Show and Tell: A Neural Image Caption Generator.** *CVPR'15*. [[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
-    - DCGAN - Generative model for new pictures: **Unsupervised Representation Learning with Deep Convoluted Generative Adversarial Networks.** *ICPR'16*. [[pdf]](https://arxiv.org/pdf/1511.06434v2.pdf)
-    - 3DCNN - Dense Mapping: **3D Convolutional Neural Networks for Landing Zone Detection from LiDAR**. *ICRA'15*. [[pdf]](http://www.dimatura.net/extra/3dcnn_lz_maturana_scherer_icra15.pdf)
-+ *Graphics*: just for fun.
-    - Shadow detection: **Shadow Detection and Sun Direction in Photo Collections.** *3DV'15*. [[pdf]](http://www.cs.sjtu.edu.cn/~shengbin/course/cg/Papers%20for%20Selection/Shadow%20Detection%20and%20Sun%20Direction%20in%20Photo%20Collections.pdf)
+    - LSTM with CNN: "Show and Tell: A Neural Image Caption Generator". *CVPR'15*. [[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
+    - DCGAN - Generative model for new pictures: "Unsupervised Representation Learning with Deep Convoluted Generative Adversarial Networks." *ICPR'16*. [[pdf]](https://arxiv.org/pdf/1511.06434v2.pdf)
+    - 3DCNN - Dense Mapping: "3D Convolutional Neural Networks for Landing Zone Detection from LiDAR". *ICRA'15*. [[pdf]](http://www.dimatura.net/extra/3dcnn_lz_maturana_scherer_icra15.pdf)
++ *CG*: inspired from my colleague @[fengq](http://www.phonicavi.com/)
+    - Shadow detection: "Shadow Detection and Sun Direction in Photo Collections." *3DV'15*. [[pdf]](http://www.cs.sjtu.edu.cn/~shengbin/course/cg/Papers%20for%20Selection/Shadow%20Detection%20and%20Sun%20Direction%20in%20Photo%20Collections.pdf)
 + *UX*: context-aware computing to improve user experience.
     - Distributed database on smartphone's contexts: with Google Shanghai.
 

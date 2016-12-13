@@ -12,7 +12,7 @@ I'm **Hang**.
 
 <center><img src="../images/about_me.jpg" height="42"></center><br>
 
-Currently, I live in Shanghai, China. I'm expected in July, 2017 with a B.E. Degree of Information Security (IS) from Shanghai Jiao Tong University.
+Currently, I live in Shanghai, China. I'm expected in July, 2017 with a B.E. Degree of Information Security (IS) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
 Now, please allow me to introduce myself as a *learner*, a *developer* and an *observer.*
 
