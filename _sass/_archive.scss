@@ -113,20 +113,24 @@
   }
 
   .archive__item-title {
+    text-align: center;
     margin-top: 0.5em;
     font-family: $cormorant;
     font-size: $type-size-4;
     font-weight: 700;
-  }
+    border-left: 5px solid #F0F0F0
+}
 
   .archive__item-excerpt {
     display: none;
+    text-align: justify;
   }
 
   .archive__date {
-      font-family: Courier;
-      font-weight: 200;
-      font-size: $type-size-5;
+      font-family: $palatino;
+      font-weight: lighter;
+      font-size: $type-size-6;
+      text-align: right;
   }
 
   @include breakpoint($small) {
