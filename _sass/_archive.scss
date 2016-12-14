@@ -145,9 +145,9 @@
   }
 
   @include breakpoint($small) {
-    @include gallery(4 of 10);
+    @include gallery(4.3 of 10);
     .archive__item-teaser {
-      max-height: 200px;
+      max-height: 190px;
     }
   }
 
