@@ -35,8 +35,7 @@
     {% if post.excerpt %}
         <p class="archive__item-excerpt" itemprop="description">
         {{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
-    {% endif %}
-    {%if post.date %}
+    {% endif %} {%if post.date %}
         <div class="archive__date">{{ post.date | date: "-  %m/%Y" }}</div>
     {% endif %}
   </article>

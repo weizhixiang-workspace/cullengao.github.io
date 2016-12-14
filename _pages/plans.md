@@ -7,7 +7,7 @@ permalink: /plans/
 ---
 
 <br>
-This page is a collection of learning plans I habitually kept for half a year.
+This page is a collection of learning plans I habitually kept half a year.
 
 It’s mostly the place for me to track the booklist / topics / predilections that I want to remember or check every now and then. I figured other people might find it handy too.
 

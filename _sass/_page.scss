@@ -89,13 +89,12 @@
 
   dt {
     margin-top: 1em;
-    font-family: $millygoudy;
-    //font-weight: bold;
+    font-family: $global-font-family;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $millygoudy;
+    font-family: $global-font-family;
     font-size: $type-size-5;
   }
 

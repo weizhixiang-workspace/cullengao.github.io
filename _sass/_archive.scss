@@ -131,10 +131,21 @@
       font-weight: lighter;
       font-size: $type-size-6;
       text-align: right;
+      color: $lighter-gray;
+      -webkit-transition: color 1s;
+  }
+
+  .archive__date:hover {
+      color: $gray;
+      -webkit-transition: color 1s;
+      -moz-transition:    color 1s;
+      -ms-transition:     color 1s;
+      -o-transition:      color 1s;
+      transition:         color 1s;
   }
 
   @include breakpoint($small) {
-    @include gallery(5 of 10);
+    @include gallery(4 of 10);
     .archive__item-teaser {
       max-height: 200px;
     }
@@ -143,10 +154,10 @@
   @include breakpoint($medium) {
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
-    @include gallery(5 of 10);
+    @include gallery(4.3 of 10);
 
     .archive__item-teaser {
-      max-height: 240px;
+      max-height: 190px;
     }
 
     .archive__item-excerpt {
