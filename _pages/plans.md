@@ -28,6 +28,6 @@ It’s mostly the place for me to track the booklist / topics / predilections th
 + *UX*: context-aware computing to improve user experience.
     - Distributed database on smartphone's contexts: with Google Shanghai.
 
-## Predilectinos
+## Predilections
 + *Photography*: I finally set up my mind in shooting pro pictures, and just bought a *SONY DSC-RX100 M5*. Please keep tuning.
 + *Fingerstyle*: a little taste of heaven. Working on the piece of [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=aIUi86_Hscw).
