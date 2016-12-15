@@ -8,22 +8,22 @@ author_profile: true
 gallery:
   - url: bb_main.png
     image_path: bb_main.png
-    alt: "The Main Activity"
+    title: "Main activity"
   - url: bb_scanning.png
     image_path: bb_scanning.png
-    alt: "Scanning through 10 seconds"
+    title: "Scanning through 10 seconds"
   - url: bb_scan_rlt.png
     image_path: bb_scan_rlt.png
-    alt: "Scan Result of a Real Working Environment"
+    title: "Scan result of a real working environment"
   - url: bb_management.png
     image_path: bb_management.png
-    alt: "Management/Registering Fragment of a Selected Beacon Instance"
+    title: "Management/Registering fragment of a selected beacon instance"
   - url: bb_geoinfo.png
     image_path: bb_geoinfo.png
-    alt: "Tuning Geographical Information of a Selected Beacon Instance"
+    title: "Tuning geographical information of a selected beacon instance"
   - url: bb_logistics.png
     image_path: bb_logistics.png
-    alt: "Logistics Fragment of a Selected Beacon Instance"
+    title: "Logistics fragment of a selected beacon instance"
 ---
 
 <br>
