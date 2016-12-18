@@ -48,7 +48,7 @@ I intend to record tiny fragments of life, by photos and my own involvements.
 
 <center><img src="../images/about_nepalkids.jpg" width="520"></center><br>
 
-In 2013, I spent two months as a volunteer in Nepal, teaching local kids about Chinese and English. It was actually a life-time experience escaping from the metropolis and blend in with a culture way different from mine.
+Back to 2013, I spent two months as an international volunteer in Nepal via [VSN](http://volunteersocietynepal.org/) organization. My major task was to teach local kids about basic Mandarin and oral English. It was actually a life-time experience escaping from the metropolis and blend in with a culture way different from mine.
 
 <center><img src="../images/about_wemet.png" width="520"></center><br>
 In 2014, I was designated as the president director of *We Met - 2018er welcoming gala* hosting for all freshmen to SJTU. This was one of the biggest campus affair of all year, taking up about three months for preparation. The phase was painstaking and full of obstacles, yet we made it through all the way till the opening of gala. It was totally worth it to see efforts being appreciated by all students and teachers.
